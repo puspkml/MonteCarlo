@@ -1,0 +1,36 @@
+10 particle
+Acceptance rate : 77.80 %
+Energy per particle : -1.309727
+
+
+20 particle
+Acceptance rate : 75.54 %
+Energy per particle : -1.329774
+
+
+30 particles
+Acceptance rate : 73.84 %
+Energy per particle : -1.648095
+
+
+40 particle
+Acceptance rate : 73.60 %
+Energy per particle : -1.859106
+
+
+50 particles
+Acceptance rate : 72.71 %
+Energy per particle : -1.681709
+
+
+60 particles
+Acceptance rate : 72.00 %
+Energy per particle : -1.724251
+
+70 particles
+Acceptance rate : 70.45 %
+Energy per particle : -1.676746
+
+80 particles
+Acceptance rate : 70.83 %
+Energy per particle : -2.014295
